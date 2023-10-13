@@ -2,6 +2,3 @@ Hey! My name is Wonho Choi, and I am a Computer Science student at Georgia Tech 
 
 Corporate projects and works are privated. 
 
-<a href="https://github.com/wonhochoi1" target="_blank">
-        ![Wonho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhochoi1&theme=dark&show_icons=true&include_all_commits=true&show_private=true)
-   </a>

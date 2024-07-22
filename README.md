@@ -1,5 +1,5 @@
-## hi! i'm  Wonho Choi 🐝
-👋 I am a Computer Science student at Georgia Tech with threads in Artificial Intelligence and Computer Modeling. I am interested in the intersection of tech & entrepreneurship, specifically exploring the potential of computer vision and distributed systems. In my free time, I like to take pictures through a point and shoot camera.
+## hi! i'm wonho
+I am a Computer Science student at Georgia Tech with threads in Artificial Intelligence and Computer Modeling. I am interested in the intersection of tech & entrepreneurship, specifically exploring the potential of computer vision and distributed systems. In my free time, I like to take pictures through a point and shoot camera.
 
 ### currently 📍
 - building with ML + hardware @ 
